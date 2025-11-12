@@ -54,3 +54,20 @@ The system assists pregnant women in understanding Ayurvedic lifestyle recommend
 - Quantitative metrics include precision, recall, and F1-score.  
 - Qualitative validation performed through expert review of Ayurvedic content.  
 - Comparative evaluation highlighted GarbhaKalyani’s superior contextual understanding and accuracy.
+---
+
+## Authors
+- **Rudresh Milind Joshi** ([f20220159@pilani.bits-pilani.ac.in](mailto:f20220159@pilani.bits-pilani.ac.in))  
+- **Asst. Prof. Dhruv Kumar** ([dhruv.kumar@pilani.bits-pilani.ac.in](mailto:dhruv.kumar@pilani.bits-pilani.ac.in))
+
+---
+
+## License
+This project is licensed under the [MIT License](./LICENSE).
+
+---
+
+## References
+Please refer to the **References** section in the project report for detailed academic and technical sources.
+
+---
